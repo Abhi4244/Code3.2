@@ -1,0 +1,40 @@
+.container{
+	border: ridge 8px #806767;
+	display:flex;
+	flex-direction: row;
+}
+.item{
+	border: 8px ridge #457180;
+	margin: 10px;
+	
+}
+.container1{
+	border: ridge 8px #806767;
+	display:flex;
+	flex-direction:column;
+}
+.item1{
+	border: 8px ridge #457180;
+	margin: 10px;
+	
+}
+.container2{
+	border: ridge 8px #806767;
+	display:flex;
+	flex-direction:row-reverse;
+}
+.item2{
+	border: 8px ridge #457180;
+	margin: 10px;
+	
+}
+.container3{
+	border: ridge 8px #806767;
+	display:flex;
+	flex-direction:column-reverse;
+}
+.item3{
+	border: 8px ridge #457180;
+	margin: 10px;
+	
+}
